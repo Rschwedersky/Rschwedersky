@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rschwedersky&label=Profile%20views&color=0e75b6&style=flat" alt="rschwedersky" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?"><img src="https://github-profile-trophy.vercel.app/?username=rschwedersky&theme=dark_dimmed" alt="rschwedersky" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?"><img src="https://github-profile-trophy.vercel.app/?username=rschwedersky&theme=alduin" alt="rschwedersky" /></a> </p>
 
 - 🔭 I’m currently working on [Cogum Webpage](github.com/Rschwedersky/CogumPage)
 
