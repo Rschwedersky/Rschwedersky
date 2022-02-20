@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Porto Schwedersky</h1>
-<h3 align="center">Biofísico focado na automação e gerenciamento na produção de cogumelos.</h3>
+<h3 align="center">Biofísico focado na automação e gerenciamento da produção de cogumelos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rschwedersky&label=Profile%20views&color=0e75b6&style=flat" alt="rschwedersky" /> </p>
 
