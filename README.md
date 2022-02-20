@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Porto Schwedersky</h1>
-<h3 align="center">Biofísico focado na automação e gerenciamento da produção de cogumelos.</h3>
+<h3 align="center">Biophysicist focused on the automation and management of mushroom production.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rschwedersky&label=Profile%20views&color=0e75b6&style=flat" alt="rschwedersky" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rodrigo-schwedersky/](https://www.linkedin.com/in/rodrigo-schwedersky/)
 
-- ⚡ Fun fact **Com pais gaúchos, sou Baiano. Vivi boa parte da vida no Rio de Janeiro e atualmente em Florianópolis.**
+- ⚡ Fun fact **With gaucho parents, I am from Bahia. I lived a good part of my life in Rio de Janeiro and currently in Florianópolis.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
