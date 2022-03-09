@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?"><img src="https://github-profile-trophy.vercel.app/?username=rschwedersky&theme=alduin" alt="rschwedersky" /></a> </p>
 
-- 🔭 I’m currently working on [Cogum Webpage](github.com/Rschwedersky/CogumPage)
+- 🔭 I’m currently working on [Cogum Webpage](https://github.com/Rschwedersky/cogumpage)
 
 - 🌱 I’m currently learning **.NET, C#, React**
 
