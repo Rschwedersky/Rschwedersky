@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rschwedersky&show_icons=true&locale=en&theme=dark" alt="rschwedersky" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rschwedersky&theme=dark" alt="rschwedersky" /></p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rschwedersky&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD2727)](https://git.io/streak-stats)
