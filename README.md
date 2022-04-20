@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Cogum Webpage](https://github.com/Rschwedersky/cogumpage)
 
-- 🌱 I’m currently learning **.NET, C#, SQL**
+- 🌱 I’m currently learning **.NET, C#, SQL and React-Native**
 
 - 📫 How to reach me **Cambara.ro@gmail.com**
 
