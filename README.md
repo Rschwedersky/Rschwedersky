@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?"><img src="https://github-profile-trophy.vercel.app/?username=rschwedersky&theme=alduin" alt="rschwedersky" /></a> </p>
 
-- 🔭 I’m currently working on [Cogum Webpage](https://github.com/Rschwedersky/cogumpage)
+- 🔭 I’m currently working on [SmarthisHUB](https://smarthis.com.br/hub/)
 
-- 🌱 I’m currently learning **.NET, C#, SQL and React-Native**
+- 🌱 I’m currently learning **Next.js, Django**
 
 - 📫 How to reach me **Cambara.ro@gmail.com**
 
