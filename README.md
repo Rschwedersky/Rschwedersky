@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?"><img src="https://github-profile-trophy.vercel.app/?username=rschwedersky&theme=alduin" alt="rschwedersky" /></a> </p>
 
-- 🔭 I’m currently working on [SmarthisHUB](https://smarthis.com.br/hub/)
+- 🔭 ?
 
 - 🌱 I’m currently learning **Data analysis**
 
