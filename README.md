@@ -1,5 +1,5 @@
-<h1 align="center">Hi.🍄, I'm Rodrigo Porto  Schwedersky</h1>
-<h3 align="center">Biophysicist focused on the automation and management of mushroom production.</h3>
+<h1 align="center">Hi. I'm Rodrigo Porto  Schwedersky</h1>
+<h3 align="center">Data driven Biophysicist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rschwedersky&label=Profile%20views&color=0e75b6&style=flat" alt="rschwedersky" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SmarthisHUB](https://smarthis.com.br/hub/)
 
-- 🌱 I’m currently learning **Next.js, Django**
+- 🌱 I’m currently learning **Data analysis**
 
 - 📫 How to reach me **Cambara.ro@gmail.com**
 
