@@ -24,3 +24,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rschwedersky&show_icons=true&locale=en&layout=compact&theme=dark" alt="rschwedersky" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rschwedersky)](https://github.com/rschwedersky/github-readme-stats)
